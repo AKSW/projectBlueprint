@@ -1,0 +1,9 @@
+Package: [[name]]
+Version: [[version]]
+Section: misc
+Priority: optional
+Architecture: all
+Depends: java-runtime
+Maintainer: Martin Röbert <roebert@infai.org>
+Description: Sample debian package
+Distribution: development
